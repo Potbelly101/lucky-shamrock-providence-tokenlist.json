@@ -1,0 +1,29 @@
+{
+  "name": "Lucky Shamrock Token List",
+  "logoURI": "https://yourwebsite.com/shamrock-logo.png",
+  "keywords": ["luck", "shamrock", "providence", "crypto", "token"],
+  "timestamp": "2025-10-22T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xDa3A2a5dd84be2D3AcB108592c77987f36aab7c9",
+      "name": "ShamrockCoin",
+      "symbol": "SHAM",
+      "decimals": 18,
+      "logoURI": "https://yourwebsite.com/shamrock.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xab35882b8e1f5fa916541091a862e022ea566bde",
+      "name": "Providence Coin",
+      "symbol": "PROV",
+      "decimals": 18,
+      "logoURI": "https://yourwebsite.com/providence.png"
+    }
+  ]
+}
