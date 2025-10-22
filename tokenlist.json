@@ -1,0 +1,28 @@
+{
+  "name": "Lucky Shamrock & Providence Token List",
+  "logoURI": "https://raw.githubusercontent.com/Potbelly101/lucky-shamrock-providence-tokenlist.json/main/logos/shamrock.png",
+  "keywords": ["lucky", "shamrock", "providence", "token", "crypto"],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xda3a25df861685c4c813a093bc4c3949eb78a11",
+      "name": "Shamrock Coin",
+      "symbol": "SHAM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Potbelly101/lucky-shamrock-providence-tokenlist.json/main/logos/shamrock.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xab35882b8e1f5fa916541091a862e022ea566bde",
+      "name": "Providence Coin",
+      "symbol": "PROV",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Potbelly101/lucky-shamrock-providence-tokenlist.json/main/logos/providence.png"
+    }
+  ]
+}
